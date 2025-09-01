@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+llama-index
+Gemini SDK
+pdfplumber
+python-multipart
+requests
